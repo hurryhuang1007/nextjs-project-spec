@@ -1,11 +1,11 @@
 ---
-name: nextjs-spec-skill
+name: nextjs-project-spec
 description: >-
   Enforces Next.js project structure, directory layout, MobX stores, fetchApi,
   Tailwind+CSS modules, modal patterns, and naming conventions for business
   apps. Use when scaffolding, reviewing, or implementing features in Next.js
   projects that follow this specification, or when the user mentions src layout,
-  @/com, @/modal, fetchApi, or nextjs-spec-skill conventions.
+  @/com, @/modal, fetchApi, or nextjs-project-spec conventions.
 ---
 
 # Next.js 项目规范
